@@ -1,0 +1,13 @@
+.b-wsearch {
+	font-size: 12px; 
+	font-family: sans-serif; 
+	width: 400px; 
+	border: 1px solid black; 
+	padding: 20px; 
+	margin-top: 10px;
+}
+
+.b-wsearch img {
+	border: 0;
+	vertical-align: middle;
+}
